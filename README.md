@@ -1,31 +1,31 @@
 ## Step 1: Project Setup
 Initialized the project folder and created basic HTML, CSS, and JS files.
 
-Designed Layout
+## step 2: Designed Layout
 Planned the website structure and created wireframes or rough layouts.
 
-Created Navbar & Hero Section
+## step 3: Created Navbar & Hero Section
 Built the navigation bar and hero section using responsive design techniques.
 
-Built Course Sections
+## step 4: Built Course Sections
 Added course cards with images, titles, and descriptions.
 
-Developed Instructor Section
+## step 5: Developed Instructor Section
 Showcased instructors or mentors with their profiles.
 
-Added Testimonials & Reviews
+## step 6: Added Testimonials & Reviews
 Included a section for student feedback using cards or sliders.
 
-Built Contact or Footer Section
+## step 7: Built Contact or Footer Section
 Created a simple contact form (UI only) and a footer with links and info.
 
-Made the Site Responsive
+## step 8: Made the Site Responsive
 Used media queries, Flexbox/Grid to ensure mobile-friendly design.
 
-Styled Using CSS
+## step 9: Styled Using CSS
 Applied consistent styling, spacing, colors, and hover effects.
 
-Final Testing & Cleanup
+## step 10: Final Testing & Cleanup
 Checked responsiveness, fixed bugs, validated HTML/CSS, and cleaned the code.
 
 
