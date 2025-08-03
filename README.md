@@ -33,8 +33,11 @@ Checked responsiveness, fixed bugs, validated HTML/CSS, and cleaned the code.
 ## Output:
 
 ### Home page
-
 <img width="1850" height="797" alt="image" src="https://github.com/user-attachments/assets/f79b5ac3-b713-45c6-a97b-1e54c2e603bf" />
+
+### Navigation bar
+<img width="1883" height="70" alt="image" src="https://github.com/user-attachments/assets/20f72ece-5923-4164-aaaa-b41953518c19" />
+
 
 ### program page
 <img width="1883" height="819" alt="Screenshot 2025-08-03 233213" src="https://github.com/user-attachments/assets/0b320444-629d-4953-8ac7-77314913aa2d" />
