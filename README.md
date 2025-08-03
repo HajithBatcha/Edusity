@@ -37,7 +37,8 @@ Checked responsiveness, fixed bugs, validated HTML/CSS, and cleaned the code.
 <img width="1850" height="797" alt="image" src="https://github.com/user-attachments/assets/f79b5ac3-b713-45c6-a97b-1e54c2e603bf" />
 
 ### program page
-<img width="1359" height="159" alt="image" src="https://github.com/user-attachments/assets/cc7df0f7-13e5-4473-b859-d294762782cb" />
+<img width="1883" height="819" alt="Screenshot 2025-08-03 233213" src="https://github.com/user-attachments/assets/0b320444-629d-4953-8ac7-77314913aa2d" />
+
 
 ### About page
 <img width="1881" height="819" alt="Screenshot 2025-08-03 234118" src="https://github.com/user-attachments/assets/a01eba12-ab6e-459d-a5d0-d917bdbc4226" />
