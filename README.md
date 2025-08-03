@@ -1,4 +1,4 @@
-<img width="1881" height="819" alt="image" src="https://github.com/user-attachments/assets/90f7ce04-f434-43a8-a2c0-c733e4b3b7df" /><img width="1883" height="819" alt="Screenshot 2025-08-03 233213" src="https://github.com/user-attachments/assets/a6b30e45-f2ce-46e3-8dcd-8aaedac8a4fd" />## Step 1: Project Setup
+>## Step 1: Project Setup
 Initialized the project folder and created basic HTML, CSS, and JS files.
 
 ## step 2: Designed Layout
@@ -47,6 +47,7 @@ Checked responsiveness, fixed bugs, validated HTML/CSS, and cleaned the code.
 
 ### Testimonials page
 <img width="1880" height="823" alt="Screenshot 2025-08-03 234435" src="https://github.com/user-attachments/assets/0c1234f1-3b39-4828-b292-b5afebb120af" />
+
 ### Contact us page
 <img width="1874" height="809" alt="Screenshot 2025-08-03 234532" src="https://github.com/user-attachments/assets/5113bb45-efb9-4aa2-a7a4-a3d8e52557cc" />
 
