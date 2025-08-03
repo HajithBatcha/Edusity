@@ -32,30 +32,30 @@ Checked responsiveness, fixed bugs, validated HTML/CSS, and cleaned the code.
 
 ## Output:
 
-### Home page
+### Home page:-
 <img width="1850" height="797" alt="image" src="https://github.com/user-attachments/assets/f79b5ac3-b713-45c6-a97b-1e54c2e603bf" />
 
-### Navigation bar
+### Navigation bar:-
 <img width="1883" height="70" alt="image" src="https://github.com/user-attachments/assets/20f72ece-5923-4164-aaaa-b41953518c19" />
 
 
-### program page
+### program page:-
 <img width="1883" height="819" alt="Screenshot 2025-08-03 233213" src="https://github.com/user-attachments/assets/0b320444-629d-4953-8ac7-77314913aa2d" />
 
 
-### About page
+### About page:-
 <img width="1881" height="819" alt="Screenshot 2025-08-03 234118" src="https://github.com/user-attachments/assets/a01eba12-ab6e-459d-a5d0-d917bdbc4226" />
 
-### Gallery page
+### Gallery page:-
 <img width="1879" height="818" alt="Screenshot 2025-08-03 234310" src="https://github.com/user-attachments/assets/4a8e1629-d2c9-4d4d-8e95-17068d0c396d" />
 
-### Testimonials page
+### Testimonials page:-
 <img width="1880" height="823" alt="Screenshot 2025-08-03 234435" src="https://github.com/user-attachments/assets/0c1234f1-3b39-4828-b292-b5afebb120af" />
 
-### Contact us page
+### Contact us page:-
 <img width="1874" height="809" alt="Screenshot 2025-08-03 234532" src="https://github.com/user-attachments/assets/5113bb45-efb9-4aa2-a7a4-a3d8e52557cc" />
 
-### Footer page
+### Footer page:-
 <img width="1876" height="141" alt="Screenshot 2025-08-03 234634" src="https://github.com/user-attachments/assets/51d21871-dfa1-458c-8257-c0c66d59adfe" />
 
 
